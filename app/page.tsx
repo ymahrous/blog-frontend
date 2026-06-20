@@ -113,7 +113,7 @@ export default async function HomePage({ searchParams }: Props) {
           }}
         >
           <Link
-            href="/auth/register"
+            href="/posts/new"
             style={{
               display: 'inline-flex',
               alignItems: 'center',

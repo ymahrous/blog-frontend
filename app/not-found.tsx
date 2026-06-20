@@ -37,7 +37,7 @@ export default function NotFound() {
         Page not found
       </h1>
       <p style={{ color: 'var(--muted)', marginBottom: '2rem', maxWidth: '380px' }}>
-        The page you're looking for doesn't exist or may have been removed.
+        The page you are looking for does not exist or may have been removed.
       </p>
       <Link
         href="/"
