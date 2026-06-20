@@ -7,7 +7,7 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Inkwell — Read & Write',
+  title: 'Inkwell — Your Personal Blogging Platform',
   description: 'Discover thoughtful essays and personal stories from writers around the world.',
 };
 
